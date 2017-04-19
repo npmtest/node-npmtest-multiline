@@ -1,4 +1,7 @@
-# test coverage for  [multiline (v1.0.2)](https://github.com/sindresorhus/multiline)  [![npm package](https://img.shields.io/npm/v/npmtest-multiline.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-multiline) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-multiline.svg)](https://travis-ci.org/npmtest/node-npmtest-multiline)
+# npmtest-multiline
+
+#### test coverage for  [multiline (v1.0.2)](https://github.com/sindresorhus/multiline)  [![npm package](https://img.shields.io/npm/v/npmtest-multiline.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-multiline) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-multiline.svg)](https://travis-ci.org/npmtest/node-npmtest-multiline)
+
 #### Multiline strings in JavaScript
 
 [![NPM](https://nodei.co/npm/multiline.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/multiline)
