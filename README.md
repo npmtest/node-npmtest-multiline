@@ -1,6 +1,6 @@
 # npmtest-multiline
 
-#### test coverage for  [multiline (v1.0.2)](https://github.com/sindresorhus/multiline)  [![npm package](https://img.shields.io/npm/v/npmtest-multiline.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-multiline) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-multiline.svg)](https://travis-ci.org/npmtest/node-npmtest-multiline)
+#### basic test coverage for  [multiline (v1.0.2)](https://github.com/sindresorhus/multiline)  [![npm package](https://img.shields.io/npm/v/npmtest-multiline.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-multiline) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-multiline.svg)](https://travis-ci.org/npmtest/node-npmtest-multiline)
 
 #### Multiline strings in JavaScript
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-multiline/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-multiline/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-multiline/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-multiline/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-multiline/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-multiline/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-multiline/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-multiline/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-multiline/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-multiline/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-multiline/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-multiline/build/coverage.html/index.html)
 
@@ -94,7 +94,8 @@
         "browser": "browserify -s $npm_package_name -o browser.js .",
         "test": "mocha"
     },
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "bin": {}
 }
 ```
 
